@@ -1,1 +1,1 @@
-{"trim": "", "base": "7512eb2", "trimbase": "", "parent": "debian/noetic/gazebo_video_monitor_plugins", "previous": "8e55c5c"}
+{"base": "eda9841", "parent": "debian/noetic/gazebo_video_monitor_plugins", "previous": "1d26ea8", "trim": "", "trimbase": ""}
