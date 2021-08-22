@@ -1,0 +1,12 @@
+Source: ros-noetic-gazebo-video-monitor-utils
+Section: misc
+Priority: optional
+Maintainer: Nick Lamprianidis <nlamprian@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-gazebo-video-monitor-utils
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-gazebo-msgs, ros-noetic-rospy, ros-noetic-std-srvs
+Description: gazebo_video_monitor_utils contains utility scripts that are meant to interact with the gazebo video monitor plugins.
