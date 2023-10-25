@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>gazebo_video_monitor_utils</name>
-  <version>0.7.0</version>
+  <version>0.7.1</version>
   <description>
     gazebo_video_monitor_utils contains utility scripts that are meant to interact with the gazebo video monitor plugins.
   </description>
 
-  <author email="nlamprian@gmail.com">Nick Lamprianidis</author>
-  <maintainer email="nlamprian@gmail.com">Nick Lamprianidis</maintainer>
+  <author email="info@nlamprian.me">Nick Lamprianidis</author>
+  <maintainer email="info@nlamprian.me">Nick Lamprianidis</maintainer>
 
   <license>GPLv3</license>
 
